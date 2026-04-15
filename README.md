@@ -1,2 +1,2 @@
 # TTMARag
-code for Toward Trustworthy Multimodal Medical RAG: Risk Calibration and Knowledge Balancing for Reliable Clinical Reasoning
+Code for TTMMRag: Trustworthy Multimodal Medical RAG
